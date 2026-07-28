@@ -32,16 +32,19 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubgit07/shubgit07/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhv31) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shubbbv)
-
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=shubgit07&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=shubgit07&theme=shadow_green&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubgit07&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=shubgit07&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
+
+---
+
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhv31) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shubbbv)
 
 ---
 
