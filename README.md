@@ -16,7 +16,7 @@ I build backend systems and AI agent pipelines, mostly the kind that involve dis
 
 ### About me
 
-I like working on things that have to actually hold up: rate limiters under real load, retrieval systems that know when they're wrong, OCR/LLM chains that can deal with messy real-world input. Lately I've been spending most of my time on LangGraph-based agent orchestration and distributed systems, and I've solved 400+ DSA problems across LeetCode, Codeforces, and GeeksforGeeks along the way.
+I like working on things that have to actually hold up: rate limiters under real load, retrieval systems that know when they're wrong, OCR/LLM chains that can deal with messy real-world input. Lately I've been spending most of my time on LangGraph-based agent orchestration and distributed systems, and solving over 500 DSA problems across LeetCode, Codeforces, and GeeksforGeeks along the way.
 
 🕳️ If there's a bug, I'm going spelunking until I find it.
 
