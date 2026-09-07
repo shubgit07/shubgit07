@@ -2,7 +2,7 @@
 
 # Hi, I'm Shubham 👋
 
-**B.Tech Mathematics & Computing @ Delhi Technological University (2023–2027)**
+**B.Tech Computer science and mathematics @ Delhi Technological University (2023–2027)**
 
 I build backend systems and AI agent pipelines, mostly the kind that involve distributed state, LLM orchestration, or both.
 
