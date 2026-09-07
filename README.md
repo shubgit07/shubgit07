@@ -27,17 +27,15 @@ I like working on things that have to actually hold up: rate limiters under real
 **[Cartana](https://github.com/shubgit07): AI Code Review Pipeline**
 `FastAPI` `Next.js` `LangGraph` `pgvector` `Redis` `Azure` `Cloudflare AI`
 - Built a stateful LangGraph pipeline for diff parsing, LLM-based code verification, and requirement-drift detection, hitting **92%+ accuracy** on a custom PR benchmark.
-- Added a two-stage semantic coverage engine.
 
 **[RateGate](https://github.com/shubgit07): Distributed API Rate Limiter**
 `Node.js` `Redis` `Lua` `Nginx` `k6` `Grafana`
 - Built a token bucket rate limiter using atomic Redis Lua scripts, enforcing per-client limits across 3 horizontally scaled instances behind Nginx.
-- Load-tested with k6 at 50 concurrent users, sustaining **5.34K req/s at 26ms p95 latency**.
 
 **[MedBridge](https://github.com/shubgit07): B2B Pharma Exchange Platform**
 `Fastify` `PostgreSQL` `PostGIS` `BullMQ` `WebSockets` `Next.js`
-- Built a dynamic sigmoid-based pricing engine plus PostGIS geospatial matching (`ST_DWithin`, GIST indexing) for distressed inventory liquidation, keeping p95 latency under 150ms.
-- Added an async Vision OCR and multi-tier LLM pipeline for drug metadata extraction and license verification, using BullMQ workers.
+  A marketplace that helps pharmacies and distributors offload near-expiry stock before it goes to waste, instead of writing it off.
+- Built a dynamic sigmoid-based pricing engine plus PostGIS geospatial matching (`ST_DWithin`, GIST indexing) for distressed inventory liquidation.
 
 🧭 **Currently exploring:** agentic AI systems and scalable production workflows, basically how LLM agents hold up under real load, real state, and real failure modes.
 
