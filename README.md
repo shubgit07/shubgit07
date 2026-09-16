@@ -22,6 +22,23 @@ I like working on things that have to actually hold up: rate limiters under real
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+![](https://streak-stats.demolab.com/?user=shubgit07&theme=shadow_green&hide_border=false)
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shubgit07&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api?username=shubgit07&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubgit07/shubgit07/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubgit07/shubgit07/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubgit07/shubgit07/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture> -->
+
+</div>
+
 ### 🚀 Featured Projects
 
 **[Cartana](https://github.com/shubgit07): AI Code Review Pipeline**
@@ -58,27 +75,13 @@ I like working on things that have to actually hold up: rate limiters under real
 
 ### 🏆 Achievements
 
--  AMD Developer Hackathon ACT II , AI Video Captioning model (90% accuracy).
+-  AMD Developer Hackathon ACT II , 
+- AI Video Captioning model (90% accuracy).
 - 🔟 **Top 10%**, Brainwave '24 DTU
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-![](https://streak-stats.demolab.com/?user=shubgit07&theme=shadow_green&hide_border=false)
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shubgit07&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-<img src="https://github-readme-stats.shion.dev/api?username=shubgit07&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubgit07/shubgit07/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubgit07/shubgit07/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubgit07/shubgit07/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture> -->
-
-</div>
 
 ---
 
